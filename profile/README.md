@@ -17,13 +17,19 @@
 
 ---
 
+<div align="center">
+
 ## 🎮 About the Project
+</div>
 
 **ParadiseControl** allows streamers to let their viewers interact with their gameplay in real-time using Twitch Channel Points or other triggers. 
 
 Currently, the project is under active development, with our primary focus on **Minecraft** integrations.
 
+<div align="center">
+
 ## 🚀 How does it work?
+</div>
 
 1. The streamer registers on the web dashboard and connects their Twitch account.
 2. The system generates a unique API key.
